@@ -9,6 +9,8 @@ spark = SparkSession.builder.appName("WebScraper").getOrCreate()
 
 
 urls = [
+    https://therealnews.com,
+    https://indianexpress.com
     # urls of news websites
 ]
 
